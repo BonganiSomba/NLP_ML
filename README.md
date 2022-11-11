@@ -1,7 +1,8 @@
 # This is my mini project on Natural Language Processing/Sentimental Analysis using the BERT Neural Network
 
-model. The aim of the project was to compare two Android Smartphones. The analysis was based on the review(comment section) from GSMArena.
+Link for demostration/video: https://www.linkedin.com/feed/update/urn:li:activity:6841729340661649408/
 
+model. The aim of the project was to compare two Android Smartphones. The analysis was based on the review(comment section) from GSMArena.
 
 
 The sentimental score is out of 5:
